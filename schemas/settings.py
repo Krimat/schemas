@@ -30,7 +30,7 @@ CSRF_COOKIE_SECURE = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'herokuapp.com',
+    'schemas-generator-proj.herokuapp.com',
 ]
 
 
